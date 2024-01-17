@@ -1,6 +1,6 @@
 # ERC-7579
 
-Minimal Modular Smart Accounts
+A Minimal Standard for Modular Smart Accounts
 
 ## Overview
 
