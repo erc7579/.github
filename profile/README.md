@@ -8,7 +8,7 @@ ERC-7579 outlines the **minimally** required interfaces and behavior for modular
 
 ## Resources
 
-- [ERC-7579](https://github.com/ethereum/ERCs/pull/163](https://eips.ethereum.org/EIPS/eip-7579)
+- [ERC-7579](https://eips.ethereum.org/EIPS/eip-7579)
 - [Reference Implementation](https://github.com/erc7579/erc7579-implementation)
 - [Docs](https://erc7579.com/)
 
